@@ -1,0 +1,15 @@
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\bin\Debug\net6.0\TutorialsEU_RockPaperScissor.exe
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\bin\Debug\net6.0\TutorialsEU_RockPaperScissor.deps.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\bin\Debug\net6.0\TutorialsEU_RockPaperScissor.runtimeconfig.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\bin\Debug\net6.0\TutorialsEU_RockPaperScissor.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\bin\Debug\net6.0\TutorialsEU_RockPaperScissor.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.csproj.AssemblyReference.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.AssemblyInfoInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.AssemblyInfo.cs
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.csproj.CoreCompileInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\refint\TutorialsEU_RockPaperScissor.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\TutorialsEU_RockPaperScissor.genruntimeconfig.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_RockPaperScissor\obj\Debug\net6.0\ref\TutorialsEU_RockPaperScissor.dll
